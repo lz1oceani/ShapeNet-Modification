@@ -16,5 +16,6 @@ Need pycollada, numpy
 
 ## Process model
 ``draw_all.py -d <directory> -n <number>`` Process .kmz or .dae in the directory.
+
 ``process_dae.py -i <input_file> -o <output_file>`` Process a single dae file.
 
